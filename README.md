@@ -1,4 +1,4 @@
-# 🗃️ LangChain Chat with SQL Database
+# 🗃️ LangChain Chatbot for chating with SQL Database
 
 A powerful Streamlit web application that enables natural language conversations with SQL databases using LangChain and Azure OpenAI. Ask questions in plain English and get intelligent SQL queries executed automatically!
 
